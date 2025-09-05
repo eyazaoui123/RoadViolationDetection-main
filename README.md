@@ -4,7 +4,7 @@
 Construire un modèle d’apprentissage pour détecter les infractions (violations) au code de la route ciblant spécifiquement les feux de circulations et les panneaux (par exemple feux rouges, panneaux STOP, etc.).  
 Ce projet inclut une interface graphique permettant de tester différentes images pour évaluer la pertinence du système.
 
-![Main Input Window](screenshots/Capture_2.jpg)
+![Main Input Window](screenshots/Capture_4.jpg)
 
 ---
 
